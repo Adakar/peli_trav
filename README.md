@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Adakar/peli_trav.svg?branch=master)](https://travis-ci.org/Adakar/peli_trav)
